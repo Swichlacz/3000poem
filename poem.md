@@ -1,9 +1,9 @@
 
-#A Little Budding Rose
+# A Little Budding Rose
 
 :rose:
 
-    _By Emily Bronte_
+    _-By Emily Bronte_
 
     It was a little budding *rose* <br>
     Round like a fairy globe,<br>
